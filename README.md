@@ -21,4 +21,4 @@ Introducimos el <a href="https://github.com/Pachecards/Arduino-1-Luz-Led/blob/ma
 
 Modificamos el <a href="https://github.com/Pachecards/Arduino-1-Luz-Led/blob/master/C%C3%B3digo%20Modificado">código</a> de diferentes formas, jugando, sobre todo, con las velocidades de apagado y encendido de las LED y el intervalo entre parpadeos.
 
-Estas prácticas están recogidas en los Códigos Básicos y los Códigos Avanzados de LED en este mismo repositorio.
+Estas prácticas están recogidas en los Códigos Básicos y los Códigos Avanzados de LED en este mismo repositorio, además de un <a href="https://github.com/Pachecards/Arduino-1-Luz-Led/blob/master/ArduinoUnoEx1Video.mp4">video</a> mostrando el funcionamiento del sistema.
